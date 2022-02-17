@@ -1,0 +1,2 @@
+# childen-s-goods
+The product card, with the help of flex and grid, the layout is adaptive. With the help of JS, it was done: clicking on the thumbnail switches the main photo; when you click on + - the quantity of goods changes; open menu on mobile when clicking on the icon; the cap is fixed on top, when scrolling, it disappears / appears smoothly; when added to the cart/favorites, a message is displayed: the product '...' in the amount of '...' units has been added to the cart/favorites;
